@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 ######################### BISMI ALLAH ##################################### Coding like a PRO! ###############################
-import sys, time, subprocess
+import sys, subprocess
 hex_vals = '0123456789ABCDEF'
 def part_1(hex_val, power):
     dec_val = 0
